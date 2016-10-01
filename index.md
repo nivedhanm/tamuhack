@@ -29,7 +29,7 @@ That's it! You should now have a website of your own.
 
 https://`your github username`.github.io/tamuhack/
 
-4. Modify 'Index.md' file to include the following line: 
+Modify 'Index.md' file to include the following line: 
 {% highlight yaml %}
   4. Modify 'Index.md' file to include the following line: 
 {% endhighlight %}
