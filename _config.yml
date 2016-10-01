@@ -20,8 +20,8 @@ baseurl: "/tamuhack" # the subpath of your site
 url: "https://nivedhanm.github.io"
 email: steve@ortizaggies.com
 github_username:  nivedhanm
-linkedin_username: nivedhanm
-twitter_username: nivedhanm
+#linkedin_username: nivedhanm
+#twitter_username: nivedhanm
 
 # Build settings
 markdown: kramdown
