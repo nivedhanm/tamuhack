@@ -27,7 +27,12 @@ twitter_username: trustycoder
 
 That's it! You should now have a website of your own.
 
-https://`your github username`.github.io/tamuhack
+https://`your github username`.github.io/tamuhack/
+
+4. Modify 'Index.md' file to include the following line: 
+{% highlight yaml %}
+  4. Modify 'Index.md' file to include the following line: 
+{% endhighlight %}
 
 There's so much more you can do with GitHub Pages, so don't stop here.
 Explore the code in this project and start making it your own.
